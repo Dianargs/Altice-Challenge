@@ -1,9 +1,9 @@
 # Altice-Challenge
 
+It was created a docker compose file to deploy the system!
+
 ## Requirements:
 - Docker
-
-### It was created a docker compose file to deploy the system!
 
 ### To execute the system:
 `docker compose up -d --build`
