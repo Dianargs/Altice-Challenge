@@ -1,0 +1,33 @@
+.num-input {
+    margin: 1%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.num-input label {
+    margin-bottom: 0.5rem;
+    display: block;
+    font-size: 1.4rem;
+}
+
+.num-input input {
+    font: inherit;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 95%;
+}
+
+.num-input__actions button{
+    text-align: right;
+    border-radius: 8px;
+    border-color: rgba(4, 224, 253, 0.637);
+    background-color: rgb(252, 252, 252);
+    max-width: 100%;
+    padding: 1%;
+    font-size: large;
+}

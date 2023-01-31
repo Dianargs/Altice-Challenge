@@ -1,0 +1,16 @@
+.num-output{
+    border-radius: 12px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+    background-color: rgba(4, 224, 253, 0.637);
+    margin: 2%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 100%;
+}
+.num-output p{
+    font-size: 1.8rem;
+    font-weight: bold;
+}
