@@ -1,0 +1,25 @@
+<div class="app">
+    <div class="header">
+        <h2>Sequência LabSeq</h2>
+        <p>L(N)= L(N-4)+L(N-3), N>3 </p>
+    </div>
+    <div class="card">
+        <div class="num-input">
+            <label>Insert N: </label>
+            <input id="inputvalue" type='number' [formControl]="inputVal" />
+        </div>
+        <div class="num-input__actions">
+            <button type="button" (click)="onSubmit()">Calculate
+            </button>
+
+        </div>
+
+        <div class="num-output">
+            <h2>Result:</h2>
+            <p>{{val.result}}</p>
+        </div>
+
+    </div>
+
+
+</div>
