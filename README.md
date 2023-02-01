@@ -11,8 +11,11 @@ It was created a docker compose file to deploy the system!
 ### Backend available on:
 `localhost:8080`
 
-### Frontend available on:
+### React Frontend available on:
 `localhost:3000`
+
+### Angular Frontend available on:
+'localhost:4200'
 
 ### Backend Documentation:
 `/docs`
