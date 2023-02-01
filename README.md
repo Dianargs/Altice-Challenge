@@ -15,7 +15,7 @@ It was created a docker compose file to deploy the system!
 `localhost:3000`
 
 ### Angular Frontend available on:
-'localhost:4200'
+`localhost:4200`
 
 ### Backend Documentation:
 `/docs`
